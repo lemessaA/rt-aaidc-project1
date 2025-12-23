@@ -1,0 +1,6 @@
+Blockchain Technology
+Blockchain technology is a decentralized system for recording 
+and verifying transactions across multiple nodes without 
+relying on a central authority. It ensures data integrity through cryptography, 
+immutability, and consensus mechanisms. Blockchain is widely used in cryptocurrencies, smart contracts, 
+supply chain tracking, and secure data sharing where transparency and trust are essential.

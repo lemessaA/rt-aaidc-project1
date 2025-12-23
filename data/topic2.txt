@@ -1,0 +1,7 @@
+Web Technology
+Web technology covers the tools and frameworks used
+to build and run web-based applications. It includes frontend
+technologies for user interfaces, backend systems for business logic,
+databases for data storage, and APIs for communication.
+Modern web technologies enable scalable, secure, 
+and interactive applications that power websites, online platforms, and cloud-based services.

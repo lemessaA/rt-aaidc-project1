@@ -1,0 +1,7 @@
+Artificial Intelligence (AI)
+Artificial Intelligence focuses on building systems that can perform tasks 
+requiring human intelligence, such as learning, reasoning,
+pattern recognition, and decision-making. It includes areas like
+machine learning, natural language processing, and computer vision.
+AI is used to analyze large datasets, automate complex processes, and
+support intelligent decision-making across industries such as healthcare, finance, and education.
